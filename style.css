@@ -1,3 +1,8 @@
-html * {
-	position:relative;
+.name {
+  align-self: center;
+  text-align: center;
+}
+
+.cv-photo {
+  width: 200px;
 }
